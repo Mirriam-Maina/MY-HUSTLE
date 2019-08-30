@@ -1,0 +1,174 @@
+
+.logo{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 50px;
+    padding-top: 80px;
+    font-family: 'Manjari', sans-serif;
+}
+
+.container {
+    display: flex !important; 
+    height: 100%;
+    padding-bottom: 30px;
+  }
+
+div.ui.menu{
+    font-family: 'Manjari', sans-serif;
+    margin-bottom: 0px;
+    width: 100%;
+    border:none !important;
+    align-items: center !important;
+}
+.navbar-div{
+    height:120px;
+    margin-left: 35%;
+    margin-right: 70%;
+    border-color: white !important;
+}
+.item{
+    font-size: 20px;
+    height: 120px;
+    width: 150px;
+    text-align: center !important;
+    box-shadow: none !important;
+}
+
+.home-item{
+    color: #f67e7d !important;
+}
+
+.ui.menu a:hover{
+    background-color:#f67e7d !important;
+    color: white !important;
+}
+
+.ui.menu a{
+    padding: 10px;
+}
+
+div.about{
+    font-family: 'Manjari', sans-serif;
+   font-size: 30px;
+   text-align: left;
+   line-height: 40px;
+   margin: -100px 10px 0 -400px;
+}
+
+.about-heading{
+    font-family: 'Manjari', sans-serif;
+    color: #f67e7d; 
+    font-size: 60px;
+}
+
+.about-text{
+    margin: 200px 0 0 100px;
+    padding-right: 10px;
+    height: 500px;
+    width: 700px;
+}
+
+
+.landing-image{
+    margin-top: -80px;
+    margin-left: -50px;
+    border-radius: 50%;
+    margin-right: -500px;
+    height: 70%;
+    padding: 0 0 0 0px;
+}
+
+.stop{
+    color: #f67e7d
+}
+
+button.button-get-started{
+    font-family: 'Manjari', sans-serif !important;
+    border-radius: 70px !important;
+    background-color: #f67e7d !important;
+    color: white !important;
+    width: 200px !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+    margin-top: 60px;
+}
+div.button-get-started{
+    padding-top: 30px;
+}
+
+.card-features{
+    width: 350px !important; 
+}
+
+div.services{
+    background-color: #f4f4f4;
+    padding: 0 0 100px 0;
+}
+
+div.contact-us{
+    background-color: #f4f4f4;
+    padding: 0 0 100px 0;
+}
+
+div.about-us{
+    padding: 0 0 100px 0;
+}
+.section-heading{
+    font-size: 60px !important;
+    padding: 50px 0 0 450px;
+    font-family: 'Manjari', sans-serif;
+    margin: 0 0 0 0 !important;
+}
+
+.ui.cards{
+    margin: 50px 0 0 -100px;
+}
+
+.feature-content{
+    font-family: 'Manjari', sans-serif;
+    font-size: 20px;
+   line-height: 30px;
+}
+h2{
+    font-family: 'Manjari', sans-serif;
+}
+.card-header{
+    background-color: #f67e7d;
+    height: 40px !important;
+    border-radius: 50%;
+    width: 40px !important;
+}
+
+.about-us{
+    display: flex !important;
+}
+.about-image{
+    margin: 80px 0 0 -600px;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.about-info{
+    margin: 100px -300px 0 200px;
+    font-family: 'Manjari', sans-serif;
+    font-size: 20px;
+   line-height: 30px;
+}
+button.contact{
+    background-color: #f67e7d !important;
+    border-radius: 30px !important;
+    width: 200px;
+    color: white !important;
+    padding:20px 0 20px 0 !important;
+
+}
+
+form.ui.form{
+    background-color: white !important;
+    width: 800px;
+    height: 600px;
+    padding: 50px 50px 50px 50px;
+    margin: 50px 0 0 0;
+    font-size: 20px;
+    font-family: 'Manjari', sans-serif;
+}
